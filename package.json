@@ -1,0 +1,21 @@
+{
+  "name": "lecture6",
+  "version": "1.0.0",
+  "description": "start of high level backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "chai",
+    "aur",
+    "code",
+    "backend"
+  ],
+  "author": "yatin gaur",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

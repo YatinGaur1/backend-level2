@@ -70,11 +70,7 @@ web_modules/
 # Yarn Integrity file
 .yarn-integrity
 
-controllers
-middlewares
-models
-routes
-utils
+
 
 # dotenv environment variables file
 .env
